@@ -47,10 +47,9 @@ export FZF_DEFAULT_OPTS=$FZF_DEFAULT_OPTS'
   --color=fg:#e8e8e8,fg+:#ffffff,bg:#000000,bg+:#2d2d2d
   --color=hl:#d9b98c,hl+:#ff9e3b,info:#b9d665,marker:#f08d49
   --color=prompt:#ff6b6b,spinner:#ffb86c,pointer:#ff9e3b,header:#d9b98c
-  --color=gutter:#000000,border:#636363,label:#aeaeae,query:#ffffff
+  --color=border:#636363,label:#aeaeae,query:#ffffff
   --border="bold" --border-label="" --preview-window="border-bold" --prompt="> "
-  --marker=">" --pointer="◆" --separator="─" --scrollbar="│"
-  --layout="reverse"'
+  --marker=">" --pointer="◆" --separator="─" --scrollbar="│"'
 ```
 
 ### Fish
@@ -65,7 +64,6 @@ set -Ux FZF_DEFAULT_OPTS "$FZF_DEFAULT_OPTS
   --color=gutter:#000000,border:#636363,label:#aeaeae,query:#ffffff
   --border='bold' --border-label='' --preview-window='border-bold' --prompt='> '
   --marker='>' --pointer='◆' --separator='─' --scrollbar='│'
-  --layout='reverse'"
 ```
 
 ### Apply Changes
@@ -78,4 +76,4 @@ source ~/.zshrc  # or ~/.bashrc
 
 ## 🛠️ Customize
 
-Want to tweak the colors? You can adjust the theme using this [FZF Theme Generator](https://vitormv.github.io/fzf-themes#eyJib3JkZXJTdHlsZSI6ImJvbGQiLCJib3JkZXJMYWJlbCI6IiIsImJvcmRlckxhYmVsUG9zaXRpb24iOjAsInByZXZpZXdCb3JkZXJTdHlsZSI6ImJvbGQiLCJwYWRkaW5nIjoiMCIsIm1hcmdpbiI6IjAiLCJwcm9tcHQiOiI+ICIsIm1hcmtlciI6Ij4iLCJwb2ludGVyIjoi4peGIiwic2VwYXJhdG9yIjoi4pSAIiwic2Nyb2xsYmFyIjoi4pSCIiwibGF5b3V0IjoicmV2ZXJzZSIsImluZm8iOiJkZWZhdWx0IiwiY29sb3JzIjoiZmc6I2U4ZThlOCxmZys6I2ZmZmZmZixiZzojMDAwMDAwLGJnKzojMmQyZDJkLGhsOiNkOWI5OGMsaGwrOiNmZjllM2IsaW5mbzojYjlkNjY1LG1hcmtlcjojZjA4ZDQ5LHByb21wdDojZmY2YjZiLHNwaW5uZXI6I2ZmYjg2Yyxwb2ludGVyOiNmZjllM2IsaGVhZGVyOiNkOWI5OGMsZ3V0dGVyOjAwMDAwMCxib3JkZXI6IzYzNjM2MyxsYWJlbDojYWVhZWFlLHF1ZXJ5OiNmZmZmZmYifQ==).
+Want to tweak the colors? You can adjust the theme using this [FZF Theme Generator](https://vitormv.github.io/fzf-themes#eyJib3JkZXJTdHlsZSI6ImJvbGQiLCJib3JkZXJMYWJlbCI6IiIsImJvcmRlckxhYmVsUG9zaXRpb24iOjAsInByZXZpZXdCb3JkZXJTdHlsZSI6ImJvbGQiLCJwYWRkaW5nIjoiMCIsIm1hcmdpbiI6IjAiLCJwcm9tcHQiOiI+ICIsIm1hcmtlciI6Ij4iLCJwb2ludGVyIjoi4peGIiwic2VwYXJhdG9yIjoi4pSAIiwic2Nyb2xsYmFyIjoi4pSCIiwibGF5b3V0IjoiZGVmYXVsdCIsImluZm8iOiJkZWZhdWx0IiwiY29sb3JzIjoiZmc6I2U4ZThlOCxmZys6I2ZmZmZmZixiZzojMDAwMDAwLGJnKzojMmQyZDJkLGhsOiNkOWI5OGMsaGwrOiNmZjllM2IsaW5mbzojYjlkNjY1LG1hcmtlcjojZjA4ZDQ5LHByb21wdDojZmY2YjZiLHNwaW5uZXI6I2ZmYjg2Yyxwb2ludGVyOiNmZjllM2IsaGVhZGVyOiNkOWI5OGMsYm9yZGVyOiM2MzYzNjMsbGFiZWw6I2FlYWVhZSxxdWVyeTojZmZmZmZmIn0=).
