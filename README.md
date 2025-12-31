@@ -63,7 +63,7 @@ set -Ux FZF_DEFAULT_OPTS "$FZF_DEFAULT_OPTS
   --color=prompt:#ff6b6b,spinner:#ffb86c,pointer:#ff9e3b,header:#d9b98c
   --color=gutter:#000000,border:#636363,label:#aeaeae,query:#ffffff
   --border='bold' --border-label='' --preview-window='border-bold' --prompt='> '
-  --marker='>' --pointer='◆' --separator='─' --scrollbar='│'
+  --marker='>' --pointer='◆' --separator='─' --scrollbar='│'"
 ```
 
 ### Apply Changes
