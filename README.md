@@ -75,3 +75,7 @@ After editing your configuration file, restart your shell or source the file:
 ```bash
 source ~/.zshrc  # or ~/.bashrc
 ```
+
+## 🛠️ Customize
+
+Want to tweak the colors? You can adjust the theme using this [FZF Theme Generator](https://vitormv.github.io/fzf-themes#eyJib3JkZXJTdHlsZSI6ImJvbGQiLCJib3JkZXJMYWJlbCI6IiIsImJvcmRlckxhYmVsUG9zaXRpb24iOjAsInByZXZpZXdCb3JkZXJTdHlsZSI6ImJvbGQiLCJwYWRkaW5nIjoiMCIsIm1hcmdpbiI6IjAiLCJwcm9tcHQiOiI+ICIsIm1hcmtlciI6Ij4iLCJwb2ludGVyIjoi4peGIiwic2VwYXJhdG9yIjoi4pSAIiwic2Nyb2xsYmFyIjoi4pSCIiwibGF5b3V0IjoicmV2ZXJzZSIsImluZm8iOiJkZWZhdWx0IiwiY29sb3JzIjoiZmc6I2U4ZThlOCxmZys6I2ZmZmZmZixiZzojMDAwMDAwLGJnKzojMmQyZDJkLGhsOiNkOWI5OGMsaGwrOiNmZjllM2IsaW5mbzojYjlkNjY1LG1hcmtlcjojZjA4ZDQ5LHByb21wdDojZmY2YjZiLHNwaW5uZXI6I2ZmYjg2Yyxwb2ludGVyOiNmZjllM2IsaGVhZGVyOiNkOWI5OGMsZ3V0dGVyOjAwMDAwMCxib3JkZXI6IzYzNjM2MyxsYWJlbDojYWVhZWFlLHF1ZXJ5OiNmZmZmZmYifQ==).
